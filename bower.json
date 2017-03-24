@@ -1,0 +1,31 @@
+{
+  "name": "reniec-sunat-js",
+  "description": "\"Librería javascript para la consulta RENIEC y SUNAT\"",
+  "main": "main.js",
+  "authors": [
+    "paulvl"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "reniec",
+    "sunat",
+    "js",
+    "javascript",
+    "consulta",
+    "tecactus",
+    "api",
+    "servicio",
+    "sin",
+    "codigo",
+    "sin",
+    "codigo"
+  ],
+  "homepage": "https://github.com/tecactus/reniec-sunat-js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

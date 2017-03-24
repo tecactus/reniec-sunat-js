@@ -1,0 +1,45 @@
+{
+  "name": "reniec-sunat-js",
+  "version": "1.0.0",
+  "description": "\"Librería javascript para la consulta RENIEC y SUNAT\"",
+  "main": "main.js",
+  "scripts": {
+    "build": "WEBPACK_ENV=build webpack",
+    "dev": "WEBPACK_ENV=dev webpack --progress --colors",
+    "watch": "WEBPACK_ENV=dev webpack --progress --colors --watch"
+  },
+  "repository": "git+https://github.com/tecactus/reniec-sunat-js.git",
+  "keywords": [
+    "reniec",
+    "sunat",
+    "js",
+    "javascript",
+    "consulta",
+    "tecactus",
+    "api",
+    "servicio",
+    "sin",
+    "codigo",
+    "sin",
+    "codigo"
+  ],
+  "author": "paulvl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tecactus/reniec-sunat-js/issues"
+  },
+  "homepage": "https://github.com/tecactus/reniec-sunat-js",
+  "devDependencies": {
+    "babel": "6.23.0",
+    "babel-core": "6.24.0",
+    "babel-eslint": "7.1.1",
+    "babel-loader": "6.4.1",
+    "babel-plugin-add-module-exports": "0.2.1",
+    "babel-preset-es2015": "6.24.0",
+    "chai": "3.5.0",
+    "eslint": "3.18.0",
+    "eslint-loader": "1.6.3",
+    "mocha": "3.2.0",
+    "webpack": "2.1.0-beta.22"
+  }
+}
