@@ -96,7 +96,7 @@ var HttpClient = function () {
     _classCallCheck(this, HttpClient);
 
     this.options = options;
-    this.baseUrl = 'https://tecactus.com/';
+    this.baseUrl = 'https://consulta.pe/';
   }
 
   _createClass(HttpClient, [{

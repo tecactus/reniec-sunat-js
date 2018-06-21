@@ -1,7 +1,7 @@
 export default class HttpClient {
   constructor (options) {
     this.options = options;
-    this.baseUrl = 'https://tecactus.com/';
+    this.baseUrl = 'https://consulta.pe/';
   }
   send () {
     var options = this.options;
